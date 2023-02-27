@@ -1,0 +1,23 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+button {
+  padding: 12px 24px;
+  background-color: red;
+  color: #fff;
+  border: 1px solid red;
+  transition: 0.2s;
+  font-size: 22px;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
+
+button:hover {
+  background-color: rgb(201, 0, 0);
+}
+
+.hatred-level-block {
+  font-size: 24px;
+}
